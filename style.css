@@ -181,6 +181,7 @@ main {
   margin: 10px 15px 0 0;
 }
 
+
 @media (max-width: 600px) {
   main {
     margin: 4em auto;
@@ -231,28 +232,6 @@ main {
     color: var(--cyanClr);
   }
 
-  .time-left {
-    display: flex;
-    align-items: center;
-  }
-
-  .creator {
-    display: flex;
-    align-items: center;
-    border-top: 1px rgba(139, 172, 218, 0.1) solid;
-  }
-
-  .creator p {
-    font-size: 0.99em;
-    margin-top: 19px;
-  }
-
-  .creator img {
-    max-width: 2em;
-    border: 1px var(--lightClr) solid;
-    border-radius: 50%;
-    margin: 10px 15px 0 0;
-  }
   
 .overlay img {
   position: absolute;
